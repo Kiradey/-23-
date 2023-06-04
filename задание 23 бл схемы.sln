@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задание 23 бл схемы", "задание 23 бл схемы\задание 23 бл схемы.csproj", "{FF7F2CDB-827C-46F7-B253-C1ACF7A35B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7F2CDB-827C-46F7-B253-C1ACF7A35B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7F2CDB-827C-46F7-B253-C1ACF7A35B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7F2CDB-827C-46F7-B253-C1ACF7A35B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7F2CDB-827C-46F7-B253-C1ACF7A35B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4BA5235-7AC3-4057-A5A5-137ACE012C85}
+	EndGlobalSection
+EndGlobal
